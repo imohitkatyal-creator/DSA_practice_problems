@@ -1,7 +1,7 @@
 package arrays;
 
 import java.util.Scanner;
-
+//hi
 public class arrayInputOutput {
 	public static int[] takeInput(int arr[],int n){
 		Scanner s= new Scanner(System.in);
