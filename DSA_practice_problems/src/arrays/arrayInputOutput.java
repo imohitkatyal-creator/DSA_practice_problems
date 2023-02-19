@@ -3,7 +3,7 @@ package arrays;
 import java.util.Scanner;
 //hi
 public class arrayInputOutput {
-	public static int[] takeInput(int arr[],int n){
+	public static int[] takeInput(int n){
 		Scanner s= new Scanner(System.in);
 		int array[]=new int[n];
 		for(int i=0;i<n;i++) {
